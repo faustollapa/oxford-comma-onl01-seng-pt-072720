@@ -1,5 +1,5 @@
 def oxford_comma(array)
-  case array
+  case array.length
   ["kiwi"].join
 
   ["kiwi" , "durian"].join("and")
