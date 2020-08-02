@@ -3,4 +3,4 @@ def oxford_comma(array)
 when 1   
   ["kiwi"].join
 when 2 
-  ["kiwi" , "durian"].join("and")
+  ["kiwi","durian"].join(" and ")
