@@ -5,4 +5,4 @@ when 1
 when 2 
   ["kiwi","durian"].join(" and ")
 else
-  array[]
+  array[0..-1]
